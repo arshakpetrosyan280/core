@@ -1,11 +1,8 @@
 {
     "name": "arshak/core",
-    "description": "core_for_php_mvc",
-    "type": "library",
-    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Arshak\\Core\\": "core/"
+            "Arshak\\Core\\": "src/"
         }
     },
     "authors": [
