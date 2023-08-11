@@ -1,0 +1,19 @@
+{
+    "name": "arshak/core",
+    "description": "core_for_php_mvc",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arshak\\Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arshakpetrosyan280",
+            "email": "arshakpetrosyan280@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
