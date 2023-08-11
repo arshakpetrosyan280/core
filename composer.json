@@ -1,5 +1,5 @@
 {
-    "name": "arshak/core",
+    "name": "arshakpetrosyan280/core",
     "autoload": {
         "psr-4": {
             "Arshak\\Core\\": "src/"
